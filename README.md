@@ -1,4 +1,4 @@
-# PyMySQL - Connecting Python and SQL
+# PyMySQL - Connecting Python and SQL for Data Science
 ## Easily access MySQL databases and execute SQL queries in Python
 
 Link to Medium article: *Coming Soon*
