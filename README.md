@@ -1,7 +1,7 @@
 # PyMySQL - Connecting Python and SQL for Data Science
 ## Easily access MySQL databases and execute SQL queries in Python
 
-Link to Medium article: *Coming Soon*
+Link to article: https://towardsdatascience.com/pymysql-connecting-python-and-sql-for-data-science-91e7582d21d7
 
 ## Context
 - SQL and Python are indispensable tools for data practitioners to work effectively with data. 
